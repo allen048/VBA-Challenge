@@ -20,6 +20,7 @@
               'Date:<2023>
               'Code Version:<1.0>
               'Availability:<Multiple_year_stock_data.xlsm>
+              
               ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
                ElseIf ws.Cells(input_row, 1) <> ws.Cells(input_row - 1, 1) Then
             
