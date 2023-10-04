@@ -2,7 +2,7 @@
 
 •	Module 2 Challenge Summary:
 
-  o	My VBA Script file processes data to produce results to summarize multiple year statistics.
+  o	My VBA Script file processes stock data to produce results to summarize multiple year statistics.
 
 •	Module 2 Challenge Issues:
 
